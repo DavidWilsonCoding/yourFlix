@@ -1,0 +1,13 @@
+$backgroundColor: #020402;
+$textColor: #f1fffa;
+$mainColor: #e5383b;
+
+#login-button {
+  margin-top: 20px;
+  margin-bottom: 100px;
+  margin-right: 20px;
+  color: $textColor;
+  background-color: $mainColor;
+  border: none;
+  align-self: center;
+}

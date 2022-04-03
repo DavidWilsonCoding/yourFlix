@@ -1,0 +1,10 @@
+$backgroundColor: #1b1c1e;
+$textColor: #f1fffa;
+$mainColor: #e5383b;
+
+* {
+  box-sizing: border-box;
+  font-family: "League Spartan", sans-serif;
+  background-color: $backgroundColor;
+  color: $textColor;
+}
